@@ -1,0 +1,15 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Un simple modulo npm que chequea si el número es primo",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "prime",
+    "number",
+    "checker",
+    "math"
+  ],
+  "license": "MIT",
+  "author": "Aldana Flores"
+}
